@@ -1,0 +1,25 @@
+Blockchain Basics
+
+A blockchain is a distributed digital ledger that records transactions in blocks linked using cryptographic hashes.
+
+Key Concepts
+
+A block typically contains transaction data, a timestamp, and a cryptographic hash linking it to a previous block.
+
+Consensus mechanisms allow network participants to agree on the state of the ledger.
+
+Proof of Work uses computational effort to validate blocks. Proof of Stake selects validators based on stake and protocol rules.
+
+Smart contracts are programs deployed on blockchains that execute according to predefined conditions.
+
+Decentralization distributes control across network participants rather than relying on a single central authority.
+
+Security Considerations
+
+Private keys must be protected. Smart contracts should be audited, and users should verify transactions before signing them.
+
+Blockchain transactions are often difficult or impossible to reverse once confirmed.
+
+Research Guidance
+
+Distinguish established facts from claims that require verification. Cite reliable sources when available and do not treat this introductory file as a substitute for current technical documentation.
